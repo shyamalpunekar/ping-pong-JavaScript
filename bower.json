@@ -1,0 +1,22 @@
+{
+  "name": "ping-pong",
+  "description": "test ping-pong app",
+  "main": "index.js",
+  "authors": [
+    "shyamal"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/shyamalpunekar/ping-pong-JavaScript",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}
